@@ -242,11 +242,11 @@ PaisaPulse AI aims to make personal finance simple, intelligent, and accessible 
 
 AI & Data Science Engineer  
 
-📧 Email: lalithkrish2006@gmail.com  
+📧 **Email:** lalithkrish2006@gmail.com
 
-💼 LinkedIn: linkedin.com/in/lalithkrish-data  
+💼 **LinkedIn:** https://www.linkedin.com/in/lalithkrish-data
 
-🐙 GitHub: github.com/Lalithkrish06  
+🐙 **GitHub:** https://github.com/Lalithkrish06
 
 
 ---
