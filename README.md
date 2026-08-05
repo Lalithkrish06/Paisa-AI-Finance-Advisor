@@ -20,6 +20,12 @@ Users can manage income, expenses, savings goals, and receive meaningful insight
 
 ---
 
+## 🌐 Platform Access
+
+👉 https://lalismartfinance.netlify.app/
+
+---
+
 # ✨ Key Features
 
 
