@@ -16,7 +16,7 @@
 
 The platform transforms traditional expense tracking into an intelligent experience by combining financial analytics, visualization dashboards, and AI-driven guidance.
 
-
+Users can manage income, expenses, savings goals, and receive meaningful insights to improve their financial decisions.
 
 ---
 
