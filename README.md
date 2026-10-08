@@ -20,7 +20,7 @@
 
 ### ⚡ Experience PaisaPulse AI
 
-<a href="https://lalismartfinance.netlify.app/">
+<a href="https://smartfinance.lalithkrish.dev/">
   <img src="https://img.shields.io/badge/Live%20Platform-PaisaPulse%20AI-00C896?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Platform">
 </a>
 
@@ -468,7 +468,7 @@ Build Better Financial Habits
 
 <div align="center">
 
-<a href="https://lalismartfinance.netlify.app/">
+<a href="https://smartfinance.lalithkrish.dev/">
   <img src="https://img.shields.io/badge/🌐%20Live%20Platform-00C896?style=for-the-badge" alt="Live Platform">
 </a>
 <a href="https://github.com/Lalithkrish06/PaisaPulse-AI-Finance-Manager">
